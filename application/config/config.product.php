@@ -39,9 +39,9 @@ define('CLIENT_LOGO_INVERSE', SETTING_UPLOAD_DIR . '/logo-inverse.png');
 /**
  * URL's
  */
-define('URL_PREFIX', BASE_URL . "index.php");
-define('URL_LANDING', URL_PREFIX . '/auth/login');
-define('URL_UNAUTHORIZED', URL_PREFIX . '/auth/login');
+define('URL_PREFIX', BASE_URL . "");
+define('URL_LANDING', URL_PREFIX . '/dashboardV');
+define('URL_UNAUTHORIZED', URL_PREFIX . '/dashboardV');
 define('URL_NO_PERMISSION', URL_PREFIX . '/auth/unauthorized');
 define('URL_ERROR', URL_PREFIX . '/auth/error');
 define('URL_LOGIN', URL_PREFIX . '/auth/login');
