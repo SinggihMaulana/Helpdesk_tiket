@@ -10,6 +10,7 @@ class User extends MY_Controller
 		$this->load->model('core/Session_model', 'Session');
 		$this->load->model('ticket/Threads_model', 'Tickets');
 		$this->load->model('user/User_model', 'Users');
+	
 	}
 
 	public function dashboard()

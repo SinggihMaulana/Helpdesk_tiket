@@ -152,7 +152,7 @@
                     </div>
                 </div>
                 <br>
-                <h4>Don't have an account?<a href=<?= site_url('SignupC') ?>>Sign Up now.</a></h4>
+                <h4>Don't have an account?<a href=<?= site_url('auth/register') ?>>Sign Up now.</a></h4>
             </center>
             <center>
                 <h4>Or</h4>

@@ -31,7 +31,7 @@ define('CLIENT_WITHDRAWAL_7_DAY_OLD',4);
 define('CURRENCY_SIGN', '₹');
 define('MEMBER_ID_PREFIX', 'HHSW');
 define('MEMBER_ID_LENGTH', 6);
-define('CLIENT_TICKET_PREFIX', 'TIK-TIKAJ-');
+define('CLIENT_TICKET_PREFIX', 'ARK-');
 define('CLIENT_TICKET_ID_LENGTH', 6);
 
 //Client Mail Settings

@@ -9,7 +9,7 @@
                 <!-- Statistics -->
                 <div class="col-md-3">
                     <div class="statistic d-flex align-items-center bg-white has-shadow custom-border-radius">
-                        <div class="icon bg-green"><i class="fa fa-tasks"></i></div>
+                    
                         <div class="text"><strong><?= $stats['total_tickets'] ?></strong><br>
                             <small>All Tickets</small>
                         </div>
@@ -18,7 +18,7 @@
 
                 <div class="col-md-3">
                     <div class="statistic d-flex align-items-center bg-white has-shadow custom-border-radius">
-                        <div class="icon bg-orange"><i class="fa fa-ticket"></i></div>
+               
                         <div class="text"><strong><?= $stats['open_tickets'] ?></strong><br>
                             <small>Open Tickets</small>
                         </div>
@@ -27,7 +27,7 @@
 
                 <div class="col-md-3">
                     <div class="statistic d-flex align-items-center bg-white has-shadow custom-border-radius">
-                        <div class="icon bg-info"><i class="fa fa-user"></i></div>
+                       
                         <div class="text"><strong><?= $stats['assigned_tickets'] ?></strong><br>
                             <small>Assigned Tickets</small>
                         </div>
@@ -36,7 +36,7 @@
 
                 <div class="col-md-3">
                     <div class="statistic d-flex align-items-center bg-white has-shadow custom-border-radius">
-                        <div class="icon bg-red"><i class="fa fa-check"></i></div>
+              
                         <div class="text"><strong><?= $stats['closed_tickets'] ?></strong><br>
                             <small>Closed Tickets</small>
                         </div>
@@ -48,7 +48,7 @@
 
     <!-- recent activity -->
     <section class="feeds">
-        <div class="container-fluid col-left-no-padding">
+        <div class="container col-left-no-padding">
             <div class="row">
                 <div class="col-lg-6 d-flex">
                     <div class="card custom-border-radius w-100">
@@ -72,23 +72,10 @@
                 </div>
                 <!-- Trending Articles-->
                 <div class="col-lg-6 d-flex">
-                    <div class="recent-updates card custom-border-radius  w-100">
+                    <div class="recent-updates card custom-border-radius">
                         <div class="card-header d-flex align-items-center  custom-border-radius">
                             <h2 class="h3">Recent Tickets</h2>
-                        </div>
-                        <div class="card-header tab-card-header shadow-none">
-                            <ul class="nav nav-tabs card-header-tabs" id="myTab" role="tablist">
-                                <li class="nav-item">
-                                    <a class="nav-link disabled-text  active show" id="one-tab" data-toggle="tab"
-                                       href="#one" role="tab" aria-controls="One" aria-selected="true">Recently Created
-                                        By Me</a>
-                                </li>
-                                <li class="nav-item">
-                                    <a class="nav-link disabled-text" id="three-tab" data-toggle="tab" href="#three"
-                                       role="tab" aria-controls="Three" aria-selected="false">Recent Closed Tickets</a>
-                                </li>
-                            </ul>
-                        </div>
+                       
                         <div class="tab-content" id="myTabContent">
                             <div class="tab-pane fade show active p-3" id="one" role="tabpanel"
                                  aria-labelledby="one-tab">
@@ -108,6 +95,40 @@
                                     </div>
                                     </div>
                                     <div class="date text-right"><span class="rel-time" data-value="'.$recent_created['created'].'000"></span><br><span class="tik-status" data-value="'.$recent_created['status'].'"></span></div>
+                                </div>
+                                ';
+                                    }
+                                } else {
+                                    echo '
+                                <div class="item d-flex align-items-center">
+                                <div class="text">
+                                    <a href="#">
+                                    <h3 class="h5">OOPS</h3>
+                                    </a>
+                                    <small>No record found</small>
+                                </div>
+                                </div>
+                                ';
+                                }
+                                ?>
+                            </div>
+                            <div class="tab-pane fade p-3" id="two" role="tabpanel" aria-labelledby="two-tab">
+                                <?php
+                                if (is_array($recent['assigned']) && count($recent['assigned']) > 0) {
+                                    foreach ($recent['assigned'] as $recent_assigned) {
+                                        echo '
+                                <div class="item d-flex  justify-content-between">
+                                <div class="info d-flex">
+                                    <div class="icon"><i class="fa fa-ticket text-info"></i></div>
+                                    <div class="text">
+                                    <a href="' . BASE_URL . 'tickets/view_ticket/' . $recent_assigned['ticket_no'] . '">
+                                        <h5>' . $recent_assigned['ticket_no'] . '</h5>
+                                    </a><br>
+                                    <p>Purpose: ' . $recent_assigned['purpose'] . '</p>
+                                    <p>Subject: ' . $recent_assigned['subject'] . '</p>
+                                    </div>
+                                    </div>
+                                    <div class="date text-right"><span class="rel-time" data-value="'.$recent_assigned['created'].'000"></span><br><span class="tik-status" data-value="'.$recent_assigned['status'].'"></span></div>
                                 </div>
                                 ';
                                     }

@@ -9,6 +9,7 @@ define("TABLE_LOCATIONS", TABLE_PREFIX . "locations");
 define("TABLE_RANKS", TABLE_PREFIX . "ranks");
 define("TABLE_BANKS", TABLE_PREFIX . "banks");
 define("TABLE_BANK_DETAILS", TABLE_PREFIX. "bank_details");
+define("TABLE_FAQS","faqs");
 
 
 

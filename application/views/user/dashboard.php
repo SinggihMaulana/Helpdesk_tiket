@@ -18,7 +18,7 @@
 
                 <div class="col-md-3">
                     <div class="statistic d-flex align-items-center bg-white has-shadow custom-border-radius">
-                        <div class="icon bg-orange"><i class="fa fa-ticket"></i></div>
+                     s   <div class="icon bg-orange"><i class="fa fa-ticket"></i></div>
                         <div class="text"><strong><?= $stats['open_tickets'] ?></strong><br>
                             <small>Open Tickets</small>
                         </div>

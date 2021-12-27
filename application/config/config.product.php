@@ -1,17 +1,17 @@
 <?PHP
 //Developer Information
 //All product and developer related information.
-define('DEV_COMPANY_NAME', 'TIKAJ');
-define('DEV_COMPANY_EMAIL', 'hello@tikaj.com');
+define('DEV_COMPANY_NAME', 'arkamaya');
+define('DEV_COMPANY_EMAIL', 'hello@arkamaya.com');
 define('DEV_COMPANY_PHONE', '8881686666');
-define('DEV_COMPANY_SUPPORT_EMAIL', 'support@tikaj.com');
-define('DEV_COMPANY_URL', 'http://www.tikaj.com');
+define('DEV_COMPANY_SUPPORT_EMAIL', 'support@arkamaya.com');
+define('DEV_COMPANY_URL', 'http://www.arkamaya.com');
 define('DEV_COMPANY_LOGO', 'assets/img/logo.png');
 
 /**
  * Product related information
  */
-define('PRODUCT_NAME', 'TIKAJ HELPDESK');
+define('PRODUCT_NAME', ' HELPDESK');
 define('PRODUCT_LOGO', 'assets/img/product-logo.png');
 
 
@@ -44,7 +44,7 @@ define('URL_LANDING', URL_PREFIX . '/dashboardV');
 define('URL_UNAUTHORIZED', URL_PREFIX . '/dashboardV');
 define('URL_NO_PERMISSION', URL_PREFIX . '/auth/unauthorized');
 define('URL_ERROR', URL_PREFIX . '/auth/error');
-define('URL_LOGIN', URL_PREFIX . '/auth/login');
+define('URL_LOGIN', URL_PREFIX . '/auth');
 define('URL_POST_LOGIN_USER', URL_PREFIX . '/user/dashboard');
 define('URL_POST_LOGIN_AGENT', URL_PREFIX . '/user/dashboard');
 define('URL_POST_LOGIN_MANAGER', URL_PREFIX . '/user/dashboard');

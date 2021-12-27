@@ -1,53 +1,56 @@
 <!--Dashboard counts-->
-<section class="dashboard-counts dashboard-header no-padding-bottom col-left-no-padding">
-    <div class="container">
-        <!--member stats-->
-        <div class="row bg-white has-shadow custom-border-radius">
-            <!-- Item -->
-            <div class="col-xl-4 col-sm-6">
-                <div class="item d-flex align-items-center">
-                    <div class="icon bg-violet"><i class="fa fa-users"></i></div>
-                    <div class="pl-3"><strong><span
-                                    class="number font-weight-bolder"><?= $stats['total_users'] ?></span></strong>
-                        <br>
-                        <span>Total Users</span>
-                    </div>
-                </div>
-            </div>
-            <!-- Item -->
-            <div class="col-xl-4 col-sm-6">
-                <div class="item d-flex align-items-center">
-                    <div class="icon bg-blue"><i class="fa fa-user-secret"></i></div>
-                    <div class="pl-3"><strong><span
-                                    class="number font-weight-bolder"><?= $stats['total_agents'] ?></span></strong>
-                        <br>
-                        <span>Total Agents</span>
-                    </div>
-                </div>
-            </div>
-            <!-- Item -->
-            <div class="col-xl-4 col-sm-6">
-                <div class="item d-flex align-items-center">
-                    <div class="icon bg-green"><i class="fa fa-user-circle-o"></i></div>
-                    <div class="pl-3"><strong><span
-                                    class="number font-weight-bolder"><?= $stats['total_manager'] ?></span></strong>
-                        <br>
-                        <span>Total Managers</span>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
 
 <!--ticket stats-->
 <section class="dashboard-header no-padding-bottom col-left-no-padding">
     <div class="container">
         <div class="row">
             <!-- Statistics -->
+
             <a href="<?= BASE_URL ?>tickets/list_all" class="col-md-3">
                 <div class="statistic d-flex align-items-center bg-white has-shadow custom-border-radius">
-                    <div class="icon bg-green"><i class="fa fa-tasks"></i></div>
+                    <div class="text"><strong><?= $stats['total_tickets'] ?></strong><br>
+                        <small>Number of Tickets</small>
+                    </div>
+                </div>
+            </a>
+
+            <a href="<?= BASE_URL ?>tickets/my_tickets" class="col-md-3">
+                <div class="statistic d-flex align-items-center bg-white has-shadow custom-border-radius">
+                    <div class="text"><strong><?= $stats['open_tickets'] ?></strong><br>
+                        <small>Overdue Tickets</small>
+                    </div>
+                </div>
+            </a>
+
+            <a href="<?= BASE_URL ?>tickets/assigned_tickets" class="col-md-3">
+                <div class="statistic d-flex align-items-center bg-white has-shadow custom-border-radius">
+                    <div class="text"><strong><?= $stats['assigned_tickets'] ?></strong><br>
+                        <small>Tickets on Hold</small>
+                    </div>
+                </div>
+            </a>
+
+            <a href="<?= BASE_URL ?>tickets/closed_tickets" class="col-md-3">
+                <div class="statistic d-flex align-items-center bg-white has-shadow custom-border-radius">
+
+                    <div class="text"><strong><?= $stats['closed_tickets'] ?></strong><br>
+                        <small>Open Tickets</small>
+                    </div>
+                </div>
+            </a>
+
+
+        </div>
+    </div>
+</section>
+<section class="dashboard-header no-padding-bottom col-left-no-padding">
+    <div class="container">
+        <div class="row">
+            <!-- Statistics -->
+            
+            <a href="<?= BASE_URL ?>tickets/list_all" class="col-md-3">
+                <div class="statistic d-flex align-items-center bg-white has-shadow custom-border-radius">
                     <div class="text"><strong><?= $stats['total_tickets'] ?></strong><br>
                         <small>All Tickets</small>
                     </div>
@@ -56,30 +59,30 @@
 
             <a href="<?= BASE_URL ?>tickets/my_tickets" class="col-md-3">
                 <div class="statistic d-flex align-items-center bg-white has-shadow custom-border-radius">
-                    <div class="icon bg-orange"><i class="fa fa-ticket"></i></div>
                     <div class="text"><strong><?= $stats['open_tickets'] ?></strong><br>
-                        <small>Open Tickets</small>
+                        <small>Unasigned Tickets</small>
                     </div>
                 </div>
             </a>
 
             <a href="<?= BASE_URL ?>tickets/assigned_tickets" class="col-md-3">
                 <div class="statistic d-flex align-items-center bg-white has-shadow custom-border-radius">
-                    <div class="icon bg-info"><i class="fa fa-user"></i></div>
                     <div class="text"><strong><?= $stats['assigned_tickets'] ?></strong><br>
-                        <small>Assigned Tickets</small>
+                        <small>List Approval</small>
                     </div>
                 </div>
             </a>
 
             <a href="<?= BASE_URL ?>tickets/closed_tickets" class="col-md-3">
                 <div class="statistic d-flex align-items-center bg-white has-shadow custom-border-radius">
-                    <div class="icon bg-red"><i class="fa fa-check"></i></div>
+
                     <div class="text"><strong><?= $stats['closed_tickets'] ?></strong><br>
-                        <small>Closed Tickets</small>
+                        <small>List of Late Tickets</small>
                     </div>
                 </div>
             </a>
+
+
         </div>
     </div>
 </section>
@@ -92,7 +95,7 @@
             <div class="col-md-7 d-flex">
                 <div class="bar-chart-example card custom-border-radius w-100">
                     <div class="card-header d-flex align-items-center  custom-border-radius">
-                        <h2 class="h3">Ticket Status By Severity</h2>
+                        <h2 class="h3">Current Ticket Status</h2>
                     </div>
                     <div class="card-body">
                         <canvas id="severity-bar-graph" height="100"></canvas>
@@ -102,7 +105,7 @@
             <div class="col-lg-5 d-flex">
                 <div class="card custom-border-radius w-100">
                     <div class="card-header d-flex align-items-center  custom-border-radius">
-                        <h2 class="h3">Tickets Status</h2>
+                        <h2 class="h3">Unresolved Ticket by Priority</h2>
                     </div>
                     <div class="work-amount">
                         <div class="card-body">
@@ -114,7 +117,6 @@
                                 </div>
                                 <canvas id="pieChart" height="100"></canvas>
                             </div>
-                            <div class="text-center">Open, Assigned and Closed Tickets Statistics</div>
                         </div>
                     </div>
                 </div>
@@ -131,26 +133,12 @@
             <!-- Trending Articles-->
             <div class="col-lg-12">
                 <div class="recent-updates card custom-border-radius w-100">
-                    <div class="card-header d-flex align-items-center  custom-border-radius">
-                        <h2 class="h3">Recent Tickets</h2>
-                    </div>
+                    
                     <div class="card-header tab-card-header shadow-none">
                         <ul class="nav nav-tabs card-header-tabs" id="myTab" role="tablist">
                             <li class="nav-item">
                                 <a class="nav-link disabled-text  active show" id="one-tab" data-toggle="tab"
                                    href="#one" role="tab" aria-controls="One" aria-selected="true">Recent Tickets</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link disabled-text" id="two-tab" data-toggle="tab" href="#two"
-                                   role="tab" aria-controls="Two" aria-selected="false">Recent Open Tickets</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link disabled-text" id="three-tab" data-toggle="tab" href="#three"
-                                   role="tab" aria-controls="Three" aria-selected="false">Recent Assigned Tickets</a>
-                            </li>
-                            <li class="nav-item">
-                                <a class="nav-link disabled-text" id="four-tab" data-toggle="tab" href="#four"
-                                   role="tab" aria-controls="Four" aria-selected="false">Recent Closed Tickets</a>
                             </li>
                         </ul>
                     </div>
@@ -301,23 +289,7 @@
     </div>
 </section>
 
-<section  class="feeds" style="margin-top: -44px;">
-    <div class="container col-left-no-padding">
-        <div class="row">
-            <!-- Trending Articles-->
-            <div class="col-md-12">
-                <div class="bar-chart-example card custom-border-radius w-100">
-                    <div class="card-header d-flex align-items-center  custom-border-radius">
-                        <h2 class="h3">Ticket Status By Priority</h2>
-                    </div>
-                    <div class="card-body">
-                        <canvas id="priority-bar-graph" height="90"></canvas>
-                    </div>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
+
 
 <script>
 

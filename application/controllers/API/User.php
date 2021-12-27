@@ -8,6 +8,7 @@ class User extends MY_Controller
         parent::__construct();
         parent::requireLogin();
         $this->load->model('user/User_model', 'Users');
+         $this->load->model('user/Faq_model', 'Faq');
         $this->load->model('core/Session_model', 'Session');
     }
 
@@ -70,6 +71,6 @@ class User extends MY_Controller
     }
  
 
-
+    
 // End of Class
 }
