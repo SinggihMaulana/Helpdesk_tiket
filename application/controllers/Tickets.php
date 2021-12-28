@@ -10,11 +10,13 @@ class Tickets extends MY_Controller
         $this->load->model('ticket/Ticket_model', 'Tickets');
         $this->load->model('user/User_model', 'Users');
         $this->load->model('ticket/Messages_model', 'Messages');
+        
     }
 
     public function create_new()
     {
         $data['title'] = 'New Ticket';
+        $data['agents'] = $this->Users->getAllAgent();
         $this->render('New Ticket', 'ticket/create_new', $data);
     }
 

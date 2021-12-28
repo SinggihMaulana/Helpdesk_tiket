@@ -77,13 +77,6 @@
                         render: function (data, type, row) {
                             return '<span class="user-status" data-value="'+data+'"></span>'
                         }
-                    },
-                    {
-                        title: "Created On",
-                        data: "created",
-                        render: function (data) {
-                            return data?'<span class="rel-time" data-value="'+data+'000">':'-';
-                        }
                     }
                     // ,
 

@@ -233,5 +233,8 @@ class User_model extends BaseMySQL_model
 
 	}
 
-
+	public function getAllAgent(){
+		$query = $this->db->where(array('type' => '60'))->get('users')->result_array();
+		return $query;
+	}
 }

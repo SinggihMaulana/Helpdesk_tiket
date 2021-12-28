@@ -307,8 +307,7 @@ function getStatusIcon(priority){
 }
 
 function getCategoryIcon(priority){
-	var priority_map = {0:'Bug', 1:'Feature Request', 2:'Software Troubleshooting', 3: 'Software Troubleshooting',
-	4:'How To', 5:'Password Reset', 6:'Network', 7: 'Hardware', 8: 'Access and Authorization'}
+	var priority_map = {0:'Incident', 1:'Problem', 2:'Service'}
 	return priority_map[parseInt(priority)];
 }
 

@@ -376,3 +376,350 @@ ERROR - 2021-12-27 19:49:17 --> $config['composer_autoload'] is set to TRUE but 
 ERROR - 2021-12-27 19:50:31 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
 ERROR - 2021-12-27 19:51:04 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
 ERROR - 2021-12-27 19:51:11 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:02:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:03:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:03:24 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:03:24 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:03:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:04:29 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:04:32 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:04:33 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:04:33 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:04:33 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:04:34 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 20:06:04 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:06:09 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:06:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:06:12 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:06:14 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:06:14 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:06:14 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:06:14 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:06:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:06:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:06:26 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:06:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:06:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:06:42 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:06:42 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:06:48 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:06:48 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:06:54 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:06:55 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:06:55 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:07:02 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:07:02 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:07:06 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:07:06 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:07:12 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:07:17 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:07:18 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:07:19 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:07:19 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:07:19 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 20:07:25 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:07:26 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:07:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:07:35 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:07:36 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:07:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:07:37 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 20:07:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:07:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:07:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:07:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:07:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:07:38 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 20:07:38 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:07:38 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:07:38 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:08:01 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:09:26 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:09:29 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:09:59 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:10:00 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 20:10:44 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:10:49 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:10:49 --> 404 Page Not Found: User/index
+ERROR - 2021-12-27 20:10:59 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:11:03 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:11:03 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:11:07 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:11:08 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:11:09 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:11:35 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:11:35 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 20:11:38 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:11:55 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:11:55 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 20:12:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:12:10 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 20:12:32 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:12:33 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:12:33 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:12:49 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:12:58 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:13:12 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:13:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:13:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:13:50 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:13:51 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:13:51 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:13:59 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:14:21 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:14:21 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 20:14:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:16:54 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:16:55 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:16:55 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:02 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:02 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:16 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:16 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:23 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:23 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:30 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:33 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:34 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:34 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:38 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:39 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:39 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:39 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:40 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:40 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:40 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:49 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:49 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:54 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:17:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:08 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:08 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:09 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:11 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:12 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:12 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:12 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 20:18:12 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:13 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 20:18:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:14 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:14 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:22 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:26 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:27 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 20:18:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:28 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:28 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 20:18:28 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:28 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:28 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:42 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:43 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 20:18:43 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 02:12:51 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:13:38 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:22:41 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:22:42 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:22:54 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:22:55 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:22:55 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:29:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:29:16 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:29:16 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:29:16 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:29:16 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 02:31:23 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:31:24 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:31:24 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:31:24 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:31:24 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 02:33:02 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:33:03 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:33:03 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:33:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:33:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:33:28 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:33:28 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:33:28 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 02:34:59 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:35:00 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:35:00 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:35:00 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:35:01 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 02:36:32 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:36:33 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:36:33 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:36:33 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:36:33 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 02:41:37 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:41:38 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:41:38 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:09 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:12 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:13 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 02:42:17 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:20 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:22 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:23 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:23 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:40 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:40 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:41 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:42 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:46 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:46 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:47 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:48 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:48 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:48 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 02:42:48 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:48 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:49 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:49 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:49 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:49 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 02:42:49 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:49 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:49 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:57 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:58 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:42:58 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:43:02 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:43:03 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:43:03 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:43:03 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 02:43:03 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:43:03 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:43:03 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:43:04 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:43:04 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:43:04 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 02:43:04 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:43:04 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:43:04 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:44:07 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:44:07 --> Severity: Notice --> Undefined offset: 0 C:\xampp\htdocs\tiket\application\controllers\Tickets.php 78
+ERROR - 2021-12-27 02:44:07 --> Severity: Notice --> Trying to access array offset on value of type null C:\xampp\htdocs\tiket\application\views\ticket\view_ticket.php 12
+ERROR - 2021-12-27 02:44:07 --> Severity: Notice --> Trying to access array offset on value of type null C:\xampp\htdocs\tiket\application\views\ticket\view_ticket.php 20
+ERROR - 2021-12-27 02:44:07 --> Severity: Notice --> Trying to access array offset on value of type null C:\xampp\htdocs\tiket\application\views\ticket\view_ticket.php 28
+ERROR - 2021-12-27 02:44:07 --> Severity: Notice --> Trying to access array offset on value of type null C:\xampp\htdocs\tiket\application\views\ticket\view_ticket.php 29
+ERROR - 2021-12-27 02:44:07 --> Severity: Notice --> Trying to access array offset on value of type null C:\xampp\htdocs\tiket\application\views\ticket\view_ticket.php 108
+ERROR - 2021-12-27 02:44:07 --> Severity: Notice --> Trying to access array offset on value of type null C:\xampp\htdocs\tiket\application\views\ticket\view_ticket.php 132
+ERROR - 2021-12-27 02:44:07 --> Severity: Notice --> Trying to access array offset on value of type null C:\xampp\htdocs\tiket\application\views\ticket\view_ticket.php 137
+ERROR - 2021-12-27 02:44:07 --> Severity: Notice --> Trying to access array offset on value of type null C:\xampp\htdocs\tiket\application\views\ticket\view_ticket.php 148
+ERROR - 2021-12-27 02:44:07 --> Severity: Notice --> Trying to access array offset on value of type null C:\xampp\htdocs\tiket\application\views\ticket\view_ticket.php 153
+ERROR - 2021-12-27 02:44:07 --> Severity: Notice --> Trying to access array offset on value of type null C:\xampp\htdocs\tiket\application\views\ticket\view_ticket.php 157
+ERROR - 2021-12-27 02:44:07 --> Severity: Notice --> Trying to access array offset on value of type null C:\xampp\htdocs\tiket\application\views\ticket\view_ticket.php 166
+ERROR - 2021-12-27 02:44:07 --> Severity: Notice --> Trying to access array offset on value of type null C:\xampp\htdocs\tiket\application\views\ticket\view_ticket.php 170
+ERROR - 2021-12-27 02:44:07 --> Severity: Notice --> Trying to access array offset on value of type null C:\xampp\htdocs\tiket\application\views\ticket\view_ticket.php 185
+ERROR - 2021-12-27 02:44:07 --> Severity: Notice --> Trying to access array offset on value of type null C:\xampp\htdocs\tiket\application\views\ticket\view_ticket.php 195
+ERROR - 2021-12-27 02:44:07 --> Severity: Notice --> Trying to access array offset on value of type null C:\xampp\htdocs\tiket\application\views\ticket\view_ticket.php 201
+ERROR - 2021-12-27 02:44:07 --> Severity: Notice --> Trying to access array offset on value of type null C:\xampp\htdocs\tiket\application\views\ticket\view_ticket.php 219
+ERROR - 2021-12-27 02:44:07 --> Severity: Notice --> Trying to access array offset on value of type null C:\xampp\htdocs\tiket\application\views\ticket\view_ticket.php 230
+ERROR - 2021-12-27 02:44:07 --> Severity: Notice --> Trying to access array offset on value of type null C:\xampp\htdocs\tiket\application\views\ticket\view_ticket.php 247
+ERROR - 2021-12-27 02:44:07 --> Severity: Notice --> Trying to access array offset on value of type null C:\xampp\htdocs\tiket\application\views\ticket\view_ticket.php 362
+ERROR - 2021-12-27 02:44:08 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:44:08 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:44:08 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 02:44:08 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:44:09 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:44:09 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:44:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:44:11 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:44:11 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:44:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:44:16 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:44:16 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:44:16 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:44:16 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 02:45:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:45:28 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:45:28 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:45:28 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:45:28 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 02:46:41 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:46:42 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:46:42 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:46:42 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:46:42 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 02:47:17 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:47:18 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:47:18 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:47:18 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:47:18 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 02:48:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:00 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:02 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:02 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:08 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:09 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:09 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:09 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 02:49:09 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:09 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:10 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 02:49:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:10 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:30 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:31 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:31 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:31 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:31 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 02:49:51 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:52 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:53 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:54 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:54 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:54 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 02:49:54 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:54 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:54 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:54 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:55 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:55 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 02:49:55 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:55 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:49:55 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:50:13 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:50:14 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:50:14 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:50:14 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 02:50:14 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:50:14 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:50:14 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:50:14 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:50:14 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:50:14 --> Severity: error --> Exception: Unable to locate the model you have specified: Faq_model C:\xampp\htdocs\tiket\system\core\Loader.php 348
+ERROR - 2021-12-27 02:50:14 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:50:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:50:15 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:50:19 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:50:19 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:50:24 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:50:27 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:50:28 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:50:33 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:50:34 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.
+ERROR - 2021-12-27 02:50:34 --> $config['composer_autoload'] is set to TRUE but C:\xampp\htdocs\tiket\application\vendor/autoload.php was not found.

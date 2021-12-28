@@ -103,14 +103,14 @@ class Ticket_model extends BaseMySQL_model {
     public function create($data)
     {
         
-        $info = getValuesOfKeys($data, array('owner','purpose', 'subject', 'message', 'assign_to', 'assign_on', 'severity', 'priority', 'category', 'cc', 'data'));
+        $info = getValuesOfKeys($data, array('owner','purpose', 'subject', 'message', 'assign_to', 'assign_on', 'severity', 'priority', 'category', 'cc', 'data', 'status'));
         $attachments = $info['data'];
         $info['data'] = json_encode($info['data']);
         if(!$info['owner'])
             $info['owner'] = $this->Session->getLoggedDetails()['username'];
         if (!empty($info['subject']) && !empty($info['message'])) {
 
-            $info = array_merge($info, array('ticket_no' => NULL, 'created' => time(), 'status' => TICKET_STATUS_OPEN));
+            $info = array_merge($info, array('ticket_no' => NULL, 'created' => time(), 'status' => TICKET_STATUS_ASSIGNED));
             $res = parent::add($info);
             if($res){
                 $ticket_no = $this->getTicketNoFromID($res);

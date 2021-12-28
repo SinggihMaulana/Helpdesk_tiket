@@ -1,4 +1,4 @@
-<?PHP
+ <?PHP
 
 define("TABLE_TICKETS", TABLE_PREFIX."tickets");
 define("TABLE_MESSAGES", TABLE_PREFIX."messages");
@@ -26,7 +26,7 @@ define('TICKET_STATUS', array(
 ));
 
 define('TICKET_CATEGORIES', array(
-    'Bug', 'Feature requests', 'Software Troubleshooting', 'How to', 'Password Reset', 'Network', 'Hardware', 'Access and Authorization'
+    'Incident', 'Problem', 'Service'
 ));
 
 define('TICKET_PRIORITIES', array(

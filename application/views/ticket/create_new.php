@@ -31,16 +31,19 @@
                                             </div>
                                         </div>
                                     </div>
-                                    <!-- <div class="form-group">
+                                    <div class="form-group">
                                         <div class="row">
                                             <label class="col-sm-2 form-control-label">Assign to</label>
                                             <div class="col-sm-6 select">
                                                 <select name="assign_to" id="assign_to_dd" class="form-control">
-                                                    <option value="null">Select name</option>                                                   
+                                                    <option value="null">Select name</option>
+                                                    <?php foreach ($agents as $agent) { ?>
+                                                        <option value="<?= $agent['username'] ?>"><?= $agent['name'] ?></option>
+                                                  <?php } ?>                                             
                                                 </select>
                                             </div>
                                         </div>
-                                    </div> -->
+                                    </div>
                                     <div class="form-group">
                                         <div class="row">
                                             <label class="col-sm-2 form-control-label">Severity</label>
@@ -66,14 +69,16 @@
                                             <label class="col-sm-2 form-control-label">CC</label>
                                             <div class="col-sm-6 select">
                                                 <select name="cc[]" id="cc_dd" multiple="multiple">
-                                                    <option value="null">Select names</option>
+                                                   <?php foreach ($agents as $agent) { ?>
+                                                        <option value="<?= $agent['username'] ?>"><?= $agent['name'] ?></option>
+                                                  <?php } ?>
                                                 </select>
                                             </div>
                                         </div>
                                     </div>
                                     <div class="form-group">
                                         <div class="row">
-                                            <label class="col-sm-2 form-control-label">Purpose</label>
+                                            <label class="col-sm-2 form-control-label">Subject</label>
                                             <div class="col-sm-6">
                                                 <input id="purpose" type="text" name="purpose" required=""
                                                        class="form-control" placeholder="Purpose of the ticket">
@@ -85,7 +90,9 @@
                                         <div class="row">
                                             <label class="col-sm-2 form-control-label">Message</label>
                                             <div class="col-sm-6">
-                                                <div id="message"></div>
+                                                <div id="message">
+                                                   
+                                                </div>
                                             </div>
                                         </div>
                                     </div>
@@ -183,6 +190,7 @@
             a.preventDefault();
             var purpose = $("#purpose").val();
             var subject = $("#subject").val();
+            var assign_to = $("#assign_to_dd").val();
             var message = quill.root.innerHTML
             var cc = ($("#cc_dd").val()).join(';');
             var severity = parseInt($("#severity_dd").val());
@@ -196,6 +204,7 @@
                 'severity': severity,
                 'cc': cc,
                 'category': category,
+                'assign_to': assign_to,
                 'data': data
             }
             console.log(fdata);
@@ -213,7 +222,9 @@
                         'severity': severity,
                         'cc': cc,
                         'category': category,
-                        'data': data
+                        'assign_to': assign_to,
+                        'data': data,
+                        'status': 50
                     },
 
                     beforeSend: function () {
