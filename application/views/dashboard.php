@@ -9,7 +9,7 @@
 
     <title>Dashboard</title>
     <style>
-        body {
+        body {  
             background-image: url("assets/img/background.jpg");
             /* Full height */
             height: 100%;
@@ -313,6 +313,9 @@
             }
         }
     </style>
+
+
+
 </head>
 
 <body>
@@ -320,7 +323,7 @@
         <div class="col">
             <h1 class="display-4" style="font-family: Segoe UI; font-size: 50px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; color: #FFFFFF; margin-top : 180px; margin-bottom : 30px;">
                 What Is HelpDesk?</h1>
-            <p class="lead" style="font-family: Segoe UI; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 500; line-height: 26.4px; color: #FFFFFF; width : 60%; margin-bottom: 5   px;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+            <p class="lead" style="font-family: Segoe UI; font-size: 14px; font-style: normal; font-variant: normal; font-weight: 500; line-height: 26.4px; color: #FFFFFF; width : 60%; margin-bottom: 5   px;">A help desk is the individual, group, organizational function or external service that an IT user calls to get help with a problem. A help desk can be as simple as a physical desk where a support person takes calls. It also can be a global organization that accepts support requests submitted online or in person from around the world. The help desk function is often outsourced to support specialists.</p>
         </div>
         <button class="button button1">Read More</button>
         <button class="button button2">Get Started</button>
@@ -338,9 +341,7 @@
                 </div>
             </div>
             <div class="col-md">
-                <p class='ratak3' style="font-size: 15px;">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
-                </p>
+                <p class='ratak3' style="font-size: 15px;">Most organizations of any size provide an IT help desk to support their employees and other internal users of computers, software and networks. These internal help desks generally provide IT support for all IT hardware, software and networking products in use in the organization.                </p>
                 <button class="button button3">Read More</button>
             </div>
         </div>
@@ -367,7 +368,7 @@
                 <div class="col-md">
                     <h2 style="font-family: Segoe UI; font-size: 25px; font-style: normal; font-variant: normal; font-weight: 700; line-height: 26.4px; color: black; margin-top : 30px ">01 Create Requests Tickets</h2>
                     <p class='ratak1' style="font-size: 13px;">
-                        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+                        Create your own tiket to help us now what your problem
                     </p>
                 </div>
 

@@ -9,7 +9,12 @@
         font-weight: 700;
         line-height: 26.4px;
         color: #FFFFFF;
+        display: flex;
+        justify-content: space-between;
+        padding: 20px 0;
+        
     }
+
 </style>
 
 <head>
@@ -31,7 +36,7 @@
     <link rel="stylesheet" href="<?= base_url(); ?>assets/css/header.css">
 
 
-    <nav class="navbar navbar-expand-lg navbar-light bg-light nav1" style="left:200px; right: 200px; width:calc(100% - 400px); border-radius: 0px 0px 10px 10px; height: 40px;">
+    <nav class="navbar navbar-expand-lg navbar-light bg-light nav1">
         <div class="container">
             <div class="text-left" class="collapse navbar-collapse">
                 <div class="navbar-nav">
@@ -40,8 +45,8 @@
             </div>
             <div class="text-center" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
-                    <a class="nav-item nav-link" href="<?= site_url('dashboardC') ?>" style="padding-right:50px">HOME</a>
-                    <a class="nav-item nav-link" href="<?= site_url('aboutC') ?>" style="padding-right:50px; padding-left:50px;">ABOUT US</a>
+                    <a class="nav-item nav-link" href="<?= site_url('auth') ?>" style="padding-right:50px">HOME</a>
+                    <a class="nav-item nav-link" href="<?= site_url('about') ?>" style="padding-right:50px; padding-left:50px;">ABOUT US</a>
                     <?php if ($login) { ?>
                         <a class="nav-item nav-link" href="<?= site_url('auth') ?>">OUR SERVICES</a>
                     <?php } else { ?>

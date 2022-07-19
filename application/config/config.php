@@ -23,9 +23,9 @@ defined('BASEPATH') OR exit('No direct script access allowed');
 | a PHP script and you can easily do that on your own.
 |
 */
-$host = is_https() ? "https://" : "http://";
-$host .= isset($_SERVER['HTTP_HOST']) ? $_SERVER['HTTP_HOST'] : "";
-$config['base_url'] = $host;
+//$host = is_https() ? "https://" : "http://";
+//$host .= isset($_SERVER['HTTP_HOST']) ? $_SERVER['HTTP_HOST'] : "";
+$config['base_url'] = 'http://localhost/Helpdesk_tiket/';
 
 /*
 |--------------------------------------------------------------------------

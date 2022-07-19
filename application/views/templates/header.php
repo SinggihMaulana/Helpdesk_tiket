@@ -41,7 +41,7 @@
             <div class="text-center" id="navbarNavAltMarkup">
                 <div class="navbar-nav">
                     <a class="nav-item nav-link" href="<?= site_url('dashboardC') ?>" style="padding-right:50px">HOME</a>
-                    <a class="nav-item nav-link" href="<?= site_url('aboutC') ?>" style="padding-right:50px; padding-left:50px;">ABOUT US</a>
+                    <a class="nav-item nav-link" href="<?= site_url('About') ?>" style="padding-right:50px; padding-left:50px;">ABOUT US</a>
                     <?php if ($login) { ?>
                         <a class="nav-item nav-link" href="<?= site_url('landingC') ?>">OUR SERVICES</a>
                     <?php } else { ?>

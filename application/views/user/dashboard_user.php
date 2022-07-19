@@ -188,6 +188,8 @@
         </div>
     </section>
 
+
+
     <script>
         var PIECHART = $('#pieChart');
         var myPieChart = new Chart(PIECHART, {
