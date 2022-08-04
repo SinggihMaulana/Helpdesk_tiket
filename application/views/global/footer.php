@@ -71,11 +71,5 @@
         $(this).append(getUserLabel(name, username))
     });
 </script>
-    <script src="https://www.gstatic.com/dialogflow-console/fast/messenger/bootstrap.js?v=1"></script>
-        <df-messenger
-            chat-title="Helpper"
-            agent-id="b7bc1942-f346-41b6-9a6b-58cb16ebb932"
-            language-code="id"
-        ></df-messenger>
 </body>
 </html>

@@ -1,0 +1,83 @@
+[debug] [2022-08-04T08:33:09.954Z] ----------------------------------------------------------------------
+[debug] [2022-08-04T08:33:09.957Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\PC\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js init
+[debug] [2022-08-04T08:33:09.959Z] CLI Version:   11.4.2
+[debug] [2022-08-04T08:33:09.959Z] Platform:      win32
+[debug] [2022-08-04T08:33:09.959Z] Node Version:  v16.16.0
+[debug] [2022-08-04T08:33:09.961Z] Time:          Thu Aug 04 2022 15:33:09 GMT+0700 (Indochina Time)
+[debug] [2022-08-04T08:33:09.962Z] ----------------------------------------------------------------------
+[debug] 
+[debug] [2022-08-04T08:33:09.980Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2022-08-04T08:33:09.981Z] > authorizing via signed-in user (reynego84@gmail.com)
+[info] 
+     ######## #### ########  ######## ########     ###     ######  ########
+     ##        ##  ##     ## ##       ##     ##  ##   ##  ##       ##
+     ######    ##  ########  ######   ########  #########  ######  ######
+     ##        ##  ##    ##  ##       ##     ## ##     ##       ## ##
+     ##       #### ##     ## ######## ########  ##     ##  ######  ########
+
+You're about to initialize a Firebase project in this directory:
+
+  C:\xampp\htdocs\Helpdesk_tiket
+
+Before we get started, keep in mind:
+
+  * You are currently outside your home directory
+
+[info] 
+=== Project Setup
+[info] 
+[info] First, let's associate this project directory with a Firebase project.
+[info] You can create multiple project aliases by running firebase use --add, 
+[info] but for now we'll just set up a default project.
+[info] 
+[debug] [2022-08-04T08:33:38.024Z] >>> [apiv2][query] GET https://firebase.googleapis.com/v1beta1/projects pageSize=100
+[debug] [2022-08-04T08:33:38.874Z] <<< [apiv2][status] GET https://firebase.googleapis.com/v1beta1/projects 200
+[debug] [2022-08-04T08:33:38.875Z] <<< [apiv2][body] GET https://firebase.googleapis.com/v1beta1/projects [omitted]
+[info] i  Using project user-tnym (user-tnym) 
+[info] 
+=== Hosting Setup
+[info] 
+[info] Your public directory is the folder (relative to your project directory) that
+[info] will contain Hosting assets to be uploaded with firebase deploy. If you
+[info] have a build process for your assets, use your build's output directory.
+[info] 
+[debug] [2022-08-04T08:34:00.572Z] >>> [apiv2][query] GET https://www.gstatic.com/firebasejs/releases.json [none]
+[debug] [2022-08-04T08:34:00.711Z] <<< [apiv2][status] GET https://www.gstatic.com/firebasejs/releases.json 200
+[debug] [2022-08-04T08:34:00.711Z] <<< [apiv2][body] GET https://www.gstatic.com/firebasejs/releases.json {"current":{"version":"9.9.1","browserURL":"https://www.gstatic.com/firebasejs/9.9.1/firebase.js","packageURL":"https://www.gstatic.com/firebasejs/9.9.1/firebase.tgz"},"live":{"version":"9.9","browserURL":"https://www.gstatic.com/firebasejs/live/9.9/firebase.js","packageURL":"https://www.gstatic.com/firebasejs/live/9.9/firebase.tgz"},"components":{"analytics":"https://www.gstatic.com/firebasejs/9.9.1/firebase-analytics.js","app":"https://www.gstatic.com/firebasejs/9.9.1/firebase-app.js","app-check":"https://www.gstatic.com/firebasejs/9.9.1/firebase-app-check.js","auth":"https://www.gstatic.com/firebasejs/9.9.1/firebase-auth.js","auth/cordova":"https://www.gstatic.com/firebasejs/9.9.1/firebase-auth/cordova.js","auth/react-native":"https://www.gstatic.com/firebasejs/9.9.1/firebase-auth/react-native.js","functions":"https://www.gstatic.com/firebasejs/9.9.1/firebase-functions.js","firestore":"https://www.gstatic.com/firebasejs/9.9.1/firebase-firestore.js","firestore/lite":"https://www.gstatic.com/firebasejs/9.9.1/firebase-firestore/lite.js","installations":"https://www.gstatic.com/firebasejs/9.9.1/firebase-installations.js","storage":"https://www.gstatic.com/firebasejs/9.9.1/firebase-storage.js","performance":"https://www.gstatic.com/firebasejs/9.9.1/firebase-performance.js","remote-config":"https://www.gstatic.com/firebasejs/9.9.1/firebase-remote-config.js","messaging":"https://www.gstatic.com/firebasejs/9.9.1/firebase-messaging.js","messaging/sw":"https://www.gstatic.com/firebasejs/9.9.1/firebase-messaging/sw.js","database":"https://www.gstatic.com/firebasejs/9.9.1/firebase-database.js","firestore.memory":"https://www.gstatic.com/firebasejs/9.9.1/firebase-firestore.memory.js"}}
+[info] +  Wrote public/index.html 
+[info] 
+[info] i  Detected a .git folder at C:\xampp\htdocs\Helpdesk_tiket 
+[info] i  Authorizing with GitHub to upload your service account to a GitHub repository's secrets store. 
+[info] 
+[info] Visit this URL on this device to log in:
+[info] https://github.com/login/oauth/authorize?client_id=89cf50f02ac6aaed3484&state=792434224&redirect_uri=http%3A%2F%2Flocalhost%3A9005&scope=read%3Auser%20repo%20public_repo
+[info] 
+[info] Waiting for authentication...
+[debug] [2022-08-04T08:34:15.064Z] >>> [apiv2][query] POST https://github.com/login/oauth/access_token [none]
+[debug] [2022-08-04T08:34:15.065Z] >>> [apiv2][body] POST https://github.com/login/oauth/access_token [stream]
+[debug] [2022-08-04T08:34:15.592Z] <<< [apiv2][status] POST https://github.com/login/oauth/access_token 200
+[debug] [2022-08-04T08:34:15.592Z] <<< [apiv2][body] POST https://github.com/login/oauth/access_token {"access_token":"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","token_type":"bearer","scope":"read:user,repo"}
+[debug] [2022-08-04T08:34:15.604Z] >>> [apiv2][query] GET https://api.github.com/user [none]
+[debug] [2022-08-04T08:34:16.068Z] <<< [apiv2][status] GET https://api.github.com/user 200
+[debug] [2022-08-04T08:34:16.069Z] <<< [apiv2][body] GET https://api.github.com/user {"login":"raynego","id":61135790,"node_id":"MDQ6VXNlcjYxMTM1Nzkw","avatar_url":"https://avatars.githubusercontent.com/u/61135790?v=4","gravatar_id":"","url":"https://api.github.com/users/raynego","html_url":"https://github.com/raynego","followers_url":"https://api.github.com/users/raynego/followers","following_url":"https://api.github.com/users/raynego/following{/other_user}","gists_url":"https://api.github.com/users/raynego/gists{/gist_id}","starred_url":"https://api.github.com/users/raynego/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/raynego/subscriptions","organizations_url":"https://api.github.com/users/raynego/orgs","repos_url":"https://api.github.com/users/raynego/repos","events_url":"https://api.github.com/users/raynego/events{/privacy}","received_events_url":"https://api.github.com/users/raynego/received_events","type":"User","site_admin":false,"name":null,"company":null,"blog":"","location":null,"email":null,"hireable":null,"bio":null,"twitter_username":null,"public_repos":5,"public_gists":0,"followers":0,"following":0,"created_at":"2020-02-17T06:28:39Z","updated_at":"2022-08-03T23:02:56Z","private_gists":0,"total_private_repos":3,"owned_private_repos":3,"disk_usage":1,"collaborators":0,"two_factor_authentication":false,"plan":{"name":"free","space":976562499,"collaborators":0,"private_repos":10000}}
+[info] 
+[info] +  Success! Logged into GitHub as raynego 
+[info] 
+[debug] [2022-08-04T08:35:01.282Z] >>> [apiv2][query] GET https://api.github.com/repos/Helpdesk_tiket/actions/secrets/public-key type=owner
+[debug] [2022-08-04T08:35:01.701Z] <<< [apiv2][status] GET https://api.github.com/repos/Helpdesk_tiket/actions/secrets/public-key 404
+[debug] [2022-08-04T08:35:01.702Z] <<< [apiv2][body] GET https://api.github.com/repos/Helpdesk_tiket/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-08-04T08:35:04.971Z] >>> [apiv2][query] GET https://api.github.com/repos/Helpdesk_tiket/actions/secrets/public-key type=owner
+[debug] [2022-08-04T08:35:05.376Z] <<< [apiv2][status] GET https://api.github.com/repos/Helpdesk_tiket/actions/secrets/public-key 404
+[debug] [2022-08-04T08:35:05.377Z] <<< [apiv2][body] GET https://api.github.com/repos/Helpdesk_tiket/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest"}
+[debug] [2022-08-04T08:35:32.447Z] >>> [apiv2][query] GET https://api.github.com/repos/Singgih Maulana/Helpdesk_tiket/actions/secrets/public-key type=owner
+[debug] [2022-08-04T08:35:32.823Z] <<< [apiv2][status] GET https://api.github.com/repos/Singgih Maulana/Helpdesk_tiket/actions/secrets/public-key 404
+[debug] [2022-08-04T08:35:32.823Z] <<< [apiv2][body] GET https://api.github.com/repos/Singgih Maulana/Helpdesk_tiket/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest/reference/actions#get-a-repository-public-key"}
+[debug] [2022-08-04T08:35:33.527Z] >>> [apiv2][query] GET https://api.github.com/repos/Singgih Maulana/Helpdesk_tiket/actions/secrets/public-key type=owner
+[debug] [2022-08-04T08:35:33.915Z] <<< [apiv2][status] GET https://api.github.com/repos/Singgih Maulana/Helpdesk_tiket/actions/secrets/public-key 404
+[debug] [2022-08-04T08:35:33.915Z] <<< [apiv2][body] GET https://api.github.com/repos/Singgih Maulana/Helpdesk_tiket/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest/reference/actions#get-a-repository-public-key"}
+[debug] [2022-08-04T08:35:34.533Z] >>> [apiv2][query] GET https://api.github.com/repos/Singgih Maulana/Helpdesk_tiket/actions/secrets/public-key type=owner
+[debug] [2022-08-04T08:35:34.916Z] <<< [apiv2][status] GET https://api.github.com/repos/Singgih Maulana/Helpdesk_tiket/actions/secrets/public-key 404
+[debug] [2022-08-04T08:35:34.916Z] <<< [apiv2][body] GET https://api.github.com/repos/Singgih Maulana/Helpdesk_tiket/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest/reference/actions#get-a-repository-public-key"}
+[debug] [2022-08-04T08:35:36.995Z] >>> [apiv2][query] GET https://api.github.com/repos/Singgih Maulana/Helpdesk_tiket/actions/secrets/public-key type=owner
+[debug] [2022-08-04T08:35:37.355Z] <<< [apiv2][status] GET https://api.github.com/repos/Singgih Maulana/Helpdesk_tiket/actions/secrets/public-key 404
+[debug] [2022-08-04T08:35:37.356Z] <<< [apiv2][body] GET https://api.github.com/repos/Singgih Maulana/Helpdesk_tiket/actions/secrets/public-key {"message":"Not Found","documentation_url":"https://docs.github.com/rest/reference/actions#get-a-repository-public-key"}
