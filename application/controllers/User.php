@@ -39,6 +39,7 @@ class User extends MY_Controller
 		$data['recent']['assigned'] = $this->Tickets->get_ticket_where_limit(array('assign_to' => $agent_id, 'status' => TICKET_STATUS_ASSIGNED), 5);
 		$data['recent']['closed'] = $this->Tickets->get_ticket_where_limit(array('owner' => $agent_id, 'status' => TICKET_STATUS_CLOSED), 5);
 		$this->render('Dashboard', 'user/dashboard_user', $data);
+		
 	}
 
 	public function dashboard_agent()

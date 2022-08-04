@@ -132,7 +132,4 @@ class Auth_model extends BaseMySQL_model
 		$_SESSION[PAYMENT_SESSION_KEY] = $payment;
 		return $payment['html'];
 	}
-
-
-
 }

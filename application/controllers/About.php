@@ -7,7 +7,7 @@
     {
        
         $this->load->view('about/about');
-        $this->load->view('templates/footer1');
+        
        
     }
     }

@@ -9,6 +9,7 @@
 </head>
 
 <body>
+
   <style>
     *{
       margin:0px;
@@ -82,6 +83,7 @@
     padding: 0px;
   }
   </style>
+
   <div class="Section">
     <div class="container">
       <div class="content-section">
